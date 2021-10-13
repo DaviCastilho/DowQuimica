@@ -207,7 +207,7 @@ session_start();
 
         var result;
 
-        const model = await tf.loadLayersModel('https://cloud-object-storage-cos-standard-cr2.s3.us-east.cloud-object-storage.appdomain.cloud/model.json');
+        const model = await tf.loadLayersModel('https://testtfod.s3.us-east.cloud-object-storage.appdomain.cloud/model.json');
 
         var sequence = [];
         var sentence = [];
@@ -216,7 +216,7 @@ session_start();
         var html;
         var lastSentence = [];
         const threshold = 0.5;
-        const actions = ['hello', 'thanks', 'iloveyou'];
+        const actions = ['positivo', 'negativo', 'adeus','feliz','bola'];
 
         function getResult(results) {
 
