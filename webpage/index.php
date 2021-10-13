@@ -140,7 +140,7 @@ session_start();
                 <div class="p-5 mb-4 bg-light rounded-3 shadow">
                     <div class="container-fluid py-5">
                         <h1 class="display-5 fw-bold">Tradutor Libras - Português</h1>
-                        <p class="col-md-8 fs-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla harum tempora error modi voluptatibus quos consequuntur aut repudiandae iusto corrupti.</p>
+                        <p class="col-md-8 fs-4">Um novo interpretador da lingua de sinais brasileira</p>
                         <button class="btn btn-danger btn-lg" type="button">Tradutor</button>
                     </div>
                 </div>
@@ -166,7 +166,9 @@ session_start();
                     <h2 class="text-center my-5">O que é o Mediapipe</h2>
 
                     <p class="text-start mt-5 pt-5">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste earum recusandae minima eos? Mollitia culpa labore quae, doloremque tempore recusandae?
+
+                        O MediaPipe oferece uma plataforma de soluções de machine learning, dentre elas o modelo holistic <br>
+                        um modelo pré treinado capaz de reconhecer face, mãos e pose do usuario, exibindo pontos de precisão
                     </p>
 
                 </div>
@@ -183,7 +185,7 @@ session_start();
                     <h2 class="text-center my-5">O que é o Tensorflow</h2>
 
                     <p class="text-start mt-5 pt-5">
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste earum recusandae minima eos? Mollitia culpa labore quae, doloremque tempore recusandae?
+                        Tensorflow é um framework de Machine Learning, aplicado amplamente para criação de redes neurais para detectar e decifrar padrões e correlações, análogo à forma como humanos aprendem e raciocinam
                     </p>
 
                 </div>
